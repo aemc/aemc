@@ -2,15 +2,17 @@ name: generate animation
 
 on:
   push:
-    branches: [ main ]
+    branches:
+    - main 
   pull_request:
-    branches: [ main ]
+    branches: 
+    - main 
   schedule:
       # every 6 hours
     - cron: "0 */6 * * *"
 
 jobs:
-  generate:
+  generate_animation:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
