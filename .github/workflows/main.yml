@@ -18,5 +18,5 @@ jobs:
         id: snake-gif
         with:
           github_user_name: aemc
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
