@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemc&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-![github contribution grid snake animation](github-contribution-grid-snake.svg)  
+<img src="github-user-contribution.svg" alt="user-contribution" />
   
 <!---
 aemc/aemc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
